@@ -151,7 +151,7 @@ If you want to perform denoising to already noisy images, use `--test_noise_mode
 ##### Gaussian noise
 Denoising result by clean target model (left to right: original, degraded image, denoised image):
 
-<img src="result/baby_GT_clean.png" width="800px">
+<img src="result/005-1.jpg" width="800px">
 
 Denoising result by noise target model:
 
