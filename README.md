@@ -155,7 +155,14 @@ Denoising result by clean target model (left to right: original, degraded image,
 
 Denoising result by noise target model:
 
-<img src="result/baby_GT_gaussian.png" width="800px">
+<img src="result/001-0.jpg" width="800px">
+
+##### random text insertion
+result by clean target model
+
+<img src="result/003-0.jpg" width="800px">
+
+<img src="result/004-0.jpg" width="800px">
 
 ##### Text insertion
 Denoising result by clean target model
